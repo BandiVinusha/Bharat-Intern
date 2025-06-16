@@ -22,3 +22,9 @@ To view the project:
 
 ## Folder Contents
 
+
+> Tip: You can place all the `.jpg` files in an `images/` directory for better organization.
+
+## License
+
+This project is open-source and free to use for personal or educational purposes.
